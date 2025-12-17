@@ -1,4 +1,4 @@
-## Hi there 👋
+This page is a work in progress
 
 <!--
 **lucknetic/lucknetic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
